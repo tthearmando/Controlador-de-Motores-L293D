@@ -1,0 +1,7 @@
+﻿Nombre,Cantidad,Componentes
+U1,1, Arduino Uno R3
+D1,1,LED Verde
+"R1, R2",2,Resistencia de 330 Ω
+U2,1, H-bridge Motor Driver L293D
+M3,1,Motorreductor
+D2,1,LED Rojo
